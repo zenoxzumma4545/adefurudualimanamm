@@ -1,0 +1,4 @@
+baseURL = "https://sheetmusic-hooque3.vercel.app"
+languageCode = "en-us"
+title = "Your Song Sheet Music"
+theme = "hugo-theme-minos"
